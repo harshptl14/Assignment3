@@ -1,0 +1,20 @@
+button {
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #111E6C;
+}
+
+div button {
+    margin: 25px;
+    width: 150px;
+    /* margin-left: 720px; */
+}
+
+.xlarge-font {
+    font-size: 80px;
+    margin: 1px;
+    font-family: Montserrat;
+}
